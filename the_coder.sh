@@ -11,3 +11,6 @@ touch cohort-1.txt cohort-2.txt cohort-3.txt
 
 # Print a message confirming the creation of the directory and files
 echo "Directory 'students_directory' and files 'cohort-1.txt', 'cohort-2.txt', and 'cohort-3.txt' have been created successfully."
+
+# Insert at least 3 names in cohort-1.txt with new lines after each name
+echo -e "1. Kenny \n2. Divine \n3. Thierry \n4. Shakira \n5. Chipo \n" > cohort-1.txt
