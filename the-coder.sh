@@ -1,1 +1,0 @@
-grep -rnw '.' -e 'kenny'
